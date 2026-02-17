@@ -35,14 +35,6 @@ Driven by curiosity, consistency, and a builder’s mindset.
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kshitij230106&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kshitij230106&layout=compact&theme=tokyonight)
-
----
-
 ## 📈 LeetCode Progress
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/kshitij_230106?theme=dark&font=Baloo)
